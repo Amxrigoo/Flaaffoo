@@ -45,7 +45,6 @@
 ## ⚡ Fun Facts
 
 - I love coding just for fun and to see what I can create!
-- Sometimes I try to solve programming puzzles or participate in hackathons.
 - Always open to ideas, inspiration, and new challenges.
 
 ---
