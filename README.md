@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Flaaffoo!
+# 👋 Hi, I’m Amxrigoo!
 
 🎓 **Student** &nbsp;|&nbsp; 💻 **Developer** &nbsp;|&nbsp; 🛠️ **Code Hobbyist**
 
