@@ -51,7 +51,7 @@
 
 ## 📈 GitHub Stats
 
-![Flaaffoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flaaffoo&show_icons=true&theme=tokyonight)
+![Amxrigoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Flaaffoo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flaaffoo&layout=compact&theme=tokyonight)
 
 ---
